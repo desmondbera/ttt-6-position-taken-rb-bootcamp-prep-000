@@ -3,5 +3,7 @@
 def position_taken?(board, indx)
   if (board[indx] != "  ")
     false 
+  else 
+    true 
   end 
 end 
