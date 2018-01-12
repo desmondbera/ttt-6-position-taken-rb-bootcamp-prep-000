@@ -2,6 +2,6 @@
 
 def position_taken?(board, indx)
   if board == "  "
-    nil 
+    return false 
   end 
 end 
